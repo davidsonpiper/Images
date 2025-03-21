@@ -1,2 +1,2 @@
-Folder containing imagfes for various Jupyter notebooks.
+Folder containing images for various Jupyter notebooks.
 Nothing more than that.
